@@ -7,6 +7,8 @@
 
 CTO, technical leader and consultant in Leeds, UK. I make heavy software run on hardware that should not be able to run it: language models on microcontrollers, 3D games on a chip with a few hundred kilobytes of RAM, autonomous agents on local models. I run [Arrows Digital](https://arrows.digital), a software agency, and take on consulting work.
 
+Don't take my word for it. Walk through my open-source portfolio at [rezor.me](https://rezor.me) and I promise you'll be impressed.
+
 ## Work
 
 | | |
