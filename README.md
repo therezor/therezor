@@ -3,8 +3,9 @@
   <img src="assets/lockup-light.png" alt="REZOR" width="360">
 </picture>
 
-# Hi, my name is Roman (aka REZOR)
- I’m a CTO, Technical Leader, and I run [Arrows Digital](https://arrows.digital), where I provide technical consulting. People call me the guy who makes "impossible" software run perfectly. I love taking messy, complex systems and refactoring them until they are incredibly efficient. Whether it’s AI on tiny devices or 3D games on minimal RAM, I focus on cutting costs and boosting speed. I don't follow the standard playbook, I find a smarter one.
+# Roman Rezor
+
+Hi, my name is Roman (aka REZOR). I'm a CTO, Technical Leader, and I run [Arrows Digital](https://arrows.digital), where I provide technical consulting. People call me the guy who makes "impossible" software run perfectly. I love taking messy, complex systems and refactoring them until they are incredibly efficient. Whether it's AI on tiny devices or 3D games on minimal RAM, I focus on cutting costs and boosting speed. I don't follow the standard playbook, I find a smarter one.
 
 Skip the talk. See the proof at [rezor.me](https://rezor.me).
 
