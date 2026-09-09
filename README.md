@@ -21,7 +21,7 @@ Skip the talk. See the proof at [rezor.me](https://rezor.me).
 | **[Follower Tracker](https://github.com/therezor/insta-followers-track)** | The tracker you actually wanted. See who unfollowed you without giving up your password or paying a subscription.                         |
 | **[Memorable Password Generator](https://github.com/therezor/password-generator)** | Strong passwords using real words. Simple, fast, and zero tracking.                                                                       |
 
-**The Old Days**
+**The Good Old Days**
 
 A decade of PHP and Laravel: [laravel transactional jobs](https://github.com/therezor/laravel-transactional-jobs) and [laravel database schedule](https://github.com/therezor/laravel-database-schedule)
 
