@@ -23,7 +23,7 @@ I also love adding a creative twist to everything. Want to see? Come play around
 | **[Memorable Password Generator](https://github.com/therezor/password-generator)** | Strong passwords using real words. Simple, fast, and zero tracking.                                                                                                                                    |
 | [Pocket Notes](https://github.com/therezor/pocket-notes) | Organize your notes automatically. Just write your thought and it will get categorized into Shopping, Todo, Ideas or your list. No phone. No cloud. No account. Everything is done locally. It learns from every note you file. |
 | [PocketTerm35 OS](https://github.com/therezor/PocketTerm35-OS) | The PocketTerm35 is so much easier to use now. It replaces the bulky regular Linux desktop with pocket-sized version. All apps will be fullscreen and easy to use. |
-| [TinyDecide](https://huggingface.co/TheREZOR/TinyDecide) | The smallest Jev-style decision model. You can ask it questions in plain English about the message. Such as is it urgent or which app should I use? It will answer these questions instant offline on a tiny chip. No training needed.
+| [TinyDecide](https://huggingface.co/TheREZOR/TinyDecide) | Smallest Jev-like decision model. You can question it in english language about message. Like is urgent? Or what app should I use? It answers you instant offline on smallest chip. No training needed.
 
 **The Good Old Days**
 
